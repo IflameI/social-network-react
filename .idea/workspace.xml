@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea839e13-215a-4c80-9b93-f98132603681" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="1lsnjn39s8QBTmz6DFlUZ6YEcne" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile/MyPosts/ProfileInfo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\iflam\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\react\01-first-project\react-1\src\components\Profile\MyPosts\ProfileInfo" />
+      <recent name="D:\react\01-first-project\react-1\src\components\People" />
+      <recent name="D:\react\01-first-project\react-1\src\components\common\paginator" />
+      <recent name="D:\react\01-first-project\react-1\src\redux" />
+      <recent name="D:\react\01-first-project\react-1\src\components\common\formsControls" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\react\01-first-project\react-1\src\components\common\paginator" />
+      <recent name="D:\react\01-first-project\react-1\src\components\TopContent" />
+      <recent name="D:\react\01-first-project\react-1\src\components\Posts" />
+      <recent name="D:\react\01-first-project\react-1\src\components\Header" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.ProfileStatus component.after creation &lt;span&gt; with status should be displayed with correct stastus">
+    <configuration name="ProfileStatus component.after creation &lt;span&gt; with status should be displayed with correct stastus" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/Profile/MyPosts/ProfileInfo/ProfileStatus.test.jsx" />
+      <test-names>
+        <test-name value="ProfileStatus component" />
+        <test-name value="after creation &lt;span&gt; with status should be displayed with correct stastus" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProfileStatus component.status from props should be in the state" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/Profile/MyPosts/ProfileInfo/ProfileStatus.test.jsx" />
+      <test-names>
+        <test-name value="ProfileStatus component" />
+        <test-name value="status from props should be in the state" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="renders without crashing" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/App.test.js" />
+      <test-names>
+        <test-name value="renders without crashing" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="Jest.ProfileStatus component.after creation &lt;span&gt; with status should be displayed with correct stastus" />
+        <item itemvalue="Jest.ProfileStatus component.status from props should be in the state" />
+        <item itemvalue="Jest.renders without crashing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea839e13-215a-4c80-9b93-f98132603681" name="Default Changelist" comment="" />
+      <created>1608394839312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608394839312</updated>
+      <workItem from="1608395099347" duration="4178000" />
+      <workItem from="1608453057903" duration="11224000" />
+      <workItem from="1608480688000" duration="2317000" />
+      <workItem from="1608483459820" duration="498000" />
+      <workItem from="1608539840108" duration="9780000" />
+      <workItem from="1608625282970" duration="8317000" />
+      <workItem from="1608711252019" duration="12205000" />
+      <workItem from="1608797795861" duration="11168000" />
+      <workItem from="1608825384040" duration="3156000" />
+      <workItem from="1609143355140" duration="11857000" />
+      <workItem from="1609170847450" duration="4073000" />
+      <workItem from="1609228891856" duration="7116000" />
+      <workItem from="1609316105643" duration="6459000" />
+      <workItem from="1609402134951" duration="5898000" />
+      <workItem from="1609489053113" duration="1546000" />
+      <workItem from="1609575276370" duration="2324000" />
+      <workItem from="1609661727972" duration="1179000" />
+      <workItem from="1609663192596" duration="6647000" />
+      <workItem from="1609747838240" duration="11235000" />
+      <workItem from="1609776485391" duration="3282000" />
+      <workItem from="1609781523122" duration="694000" />
+      <workItem from="1609834318846" duration="11644000" />
+      <workItem from="1609862381803" duration="66000" />
+      <workItem from="1610957277716" duration="6276000" />
+      <workItem from="1610985247432" duration="1811000" />
+      <workItem from="1611043019094" duration="8108000" />
+      <workItem from="1611069728077" duration="1175000" />
+      <workItem from="1611129467086" duration="4958000" />
+      <workItem from="1611158101200" duration="2181000" />
+      <workItem from="1611215721399" duration="374000" />
+      <workItem from="1611302778718" duration="2019000" />
+      <workItem from="1611330935093" duration="1045000" />
+      <workItem from="1611388454333" duration="6349000" />
+      <workItem from="1611475022122" duration="8507000" />
+      <workItem from="1611563414421" duration="2722000" />
+      <workItem from="1611648174526" duration="5762000" />
+      <workItem from="1611821563034" duration="5667000" />
+      <workItem from="1611849355168" duration="4232000" />
+      <workItem from="1612108610022" duration="163000" />
+      <workItem from="1612166103020" duration="5319000" />
+      <workItem from="1612254787242" duration="9830000" />
+      <workItem from="1612281231939" duration="81000" />
+      <workItem from="1612339879862" duration="5315000" />
+      <workItem from="1612367940856" duration="3758000" />
+      <workItem from="1612425912094" duration="9888000" />
+      <workItem from="1612454006553" duration="514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

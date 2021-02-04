@@ -1,0 +1,18 @@
+.pagination{
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+.pagination li{
+    display:inline-block;
+}
+.pagination li {
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: 14px;
+}
+.selectedPage{
+    font-weight: 700;
+}
+

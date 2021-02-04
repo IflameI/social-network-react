@@ -1,0 +1,34 @@
+
+.rightItem {
+    text-align: left;
+    margin-bottom: 13px;
+    position: relative;
+    display: flex;
+}
+.follows {
+    font-size: 13px;
+    line-height: 26px;
+    color: #6d6e71;
+    border-bottom: 1px solid #f1f2f2;
+}
+.follows a {
+    color: #27aae1;
+    font-size: 14px;
+}
+
+.follows p {
+    margin: 0 0 10px;
+}
+.photo{
+    padding-right: 15px;
+}
+.photo img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.add{
+    color: #8dc63f;
+    font-size: 13px;
+    padding-top: 6px;
+}

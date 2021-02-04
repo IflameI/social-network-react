@@ -1,0 +1,97 @@
+.topMain {
+    background: url("https://images.squarespace-cdn.com/content/v1/57ba54e7197aea4fdb66d9dc/1473715214523-VPNPP1K9JZRK39OH8OP9/ke17ZwdGBToddI8pDm48kKEyAyosbcC0HBWMEw0li6EUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duwIvOljuUA1AUkg6gYOS0gBDTUgBvLI8DZh5agWgf9om7cT0R_dexc_UL_zbpz6JQ/Forest-Fog-Background.jpg?format=1500w");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 360px;
+    border-radius: 0 0 4px 4px;
+    position: relative;
+    color: #fff;
+    margin-bottom: 120px;
+    margin-top: -100px;
+}
+
+.topRow {
+    display: flex;
+    background: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    position: absolute;
+    bottom: 25px;
+}
+
+.columnD {
+    flex: 0 1 80%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.columnM {
+    padding: 0 10px;
+    flex: 0 1 20%;
+}
+
+.topPhoto {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 10px solid #fff;
+    margin-top: 10px;
+}
+
+.topName {
+    color: #27aae1;
+    font-size: 24px;
+    margin: 20px 0 10px 0;
+    line-height: 1.1;
+    max-width: 200px;
+}
+
+.topText {
+    color: #939598;
+}
+
+.topInfo {
+    position: absolute;
+    text-align: center;
+    padding: 0 20px;
+    top: -100px;
+    z-index: 5;
+}
+
+.topMenu {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    font-size: 0;
+    align-items: center;
+}
+
+.topMenu li a.active {
+    color: #27aae1;
+}
+
+.topMenu li {
+    padding: 15px;
+    font-size: 14px;
+}
+
+.topFollow {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    font-size: 14px;
+    align-items: center;
+}
+
+.topFollow li {
+    padding: 15px;
+}
+.aboutText{
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
